@@ -15,3 +15,7 @@ bin/
 out/
 
 .DS_STORE
+.project
+.classpath
+.settings
+
